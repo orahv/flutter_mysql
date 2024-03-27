@@ -25,7 +25,7 @@ in this project
 * flutter custom button, hovering,change color with image
 * QR SCANNER
 * QR GENERATOR
-* Landing page, main Menu Button ...etch..
+* Landing page, main Menu Button, etc..
 * Google Map 
 
 
